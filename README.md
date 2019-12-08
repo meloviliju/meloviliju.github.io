@@ -4,6 +4,8 @@
 
 ## 作ったもの / 作りたいもの
 - [机戦アプリ](https://github.com/schwert398/cerke_code.git)
+- [採譜アプリ(机戦)](https://github.com/schwert398/cerke_noter.git)
 
+<br>
 - [「オカルティスト」ルールブック(未完成)](occultist_ruletop.md)
 - 「オカルティスト」リプレイ動画
