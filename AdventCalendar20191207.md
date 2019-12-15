@@ -1,5 +1,5 @@
 # この記事は
-[受験生Advent Calender 2019](https://adventar.org/calendars/3972) 7日目の記事です。
+[受験生Advent Calendar 2019](https://adventar.org/calendars/3972) 7日目の記事です。
 
 ## 早速ですが
 書くことが思いつきません。(は？)  
