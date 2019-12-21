@@ -14,7 +14,7 @@
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">とりあえずエラーを出さずに動くものができた、あとはコツコツ修正していこう <a href="https://t.co/XDxhXFgIm4">pic.twitter.com/XDxhXFgIm4</a></p>&mdash; シンジ (@shinji_jetter) <a href="https://twitter.com/shinji_jetter/status/1179770980509585409?ref_src=twsrc%5Etfw">2019年10月3日</a></blockquote>
 一応[ここ](https://github.com/schwert398/cerke_code)にあるにはありますが変にいじくったまま放置しちゃっているため使い物にならなくなっています。  
 早いとこパッチ当てなきゃ~~誰か代わってくれ~~  
-一応棋譜モードを実装しようとして引っかかっているので、やる気をおこせば割とすぐなおるはず。  
+GitHubの使い方よくわかってない時に中途半端にpushして動かなくなってるだけなので、やる気が出ればすぐなおるはず。(出せ)  
 
 ### Cerke Noter
 S.Y[(@s_y15)](https://twitter.com/s_y15)氏の要望を受けて作ったやつですね。Androidアプリです。  
