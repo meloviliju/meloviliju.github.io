@@ -33,7 +33,7 @@ S.Y[(@s_y15)](https://twitter.com/s_y15)氏の要望を受けて作ったやつ�
 - LayoutへのaddViewがどうやってもうまくいかない  
 
 最後のやつがクリア出来たらバージョン0.3が出せます。  
-出たよ！やったね！[link](https://github.com/schwert398/cerke-mobile-for-android/releases/tag/v0.3-beta)
+出たよ！やったね！[link](https://github.com/schwert398/cerke-mobile-for-android/releases/tag/v0.3.1-beta)
 
 ## おしまい
 以上、簡潔でしたが今年の進捗報告です。  
