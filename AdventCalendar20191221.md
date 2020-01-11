@@ -18,7 +18,12 @@ GitHubの使い方よくわかってない時に中途半端にpushして動か�
 
 ### Cerke Noter
 S.Y[(@s_y15)](https://twitter.com/s_y15)氏の要望を受けて作ったやつですね。Androidアプリです。  
-今日機能を追加してバージョンが1.1になりました。Downloadは[こちら](https://github.com/schwert398/cerke_noter/releases/tag/v1.1-beta)のapkから。  
+今日機能を追加してバージョンが1.1になりました。~~Downloadは[こちら](https://github.com/schwert398/cerke_noter/releases/tag/v1.1-beta)のapkから。  ~~
+***
+#### 1/12/2020追記
+本日ver.1.3がリリースされ、今後もアップデートが予定されるため、Downloadはこちらのリンクをご利用ください。  
+[Releases・schwert398/cerke_noter](https://github.com/schwert398/cerke_noter/releases)
+***
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">見た目と生成した棋譜(改行は見やすく整形した) <a href="https://t.co/lxb5ca4LG8">pic.twitter.com/lxb5ca4LG8</a></p>&mdash; シンジ (@shinji_jetter) <a href="https://twitter.com/shinji_jetter/status/1208367241449750529?ref_src=twsrc%5Etfw">2019年12月21日</a></blockquote>
 (せっかく棋譜の増えそうなアプリ作ったしなおさら再生機作らないとなぁ)
 
