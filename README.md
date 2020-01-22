@@ -1,5 +1,4 @@
 [schwert398](https://twitter.com/Schwert398)のページ.  
-理名ではSkarsna.Melovilijuとして活動しています。  
 アプリやTRPGなどを細々と作る
 
 ## 作ったもの / 作りたいもの
