@@ -8,5 +8,5 @@
 
 <br>
 
-- [「オカルティスト」ルールブック](https://schwert398.github.io/occultist_ruletop)  
-- [「1984」ルールブック](https://schwert398.github.io/RuleBook1984)  
+- 「オカルティスト」ルールブック<!--(https://schwert398.github.io/occultist_ruletop)-->  
+- 「1984」ルールブック<!--(https://schwert398.github.io/RuleBook1984)-->  
