@@ -6,6 +6,8 @@
 - [机戦アプリ(Android)](https://github.com/schwert398/cerke-mobile-for-android.git)  
 - [棋譜アプリ(机戦)](https://github.com/schwert398/cerke_noter.git)
 
+- [タフター・ポータル](taftar_portal.md)
+
 <br>
 
 - 「オカルティスト」ルールブック<!--(https://schwert398.github.io/occultist_ruletop)-->  
