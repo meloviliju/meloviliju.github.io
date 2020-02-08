@@ -23,6 +23,4 @@ a /a/, e /e/, i /i/, u /u/, o /o/, y /y/の6つ。
 i, y, u, o, e, aの6つ。  
 - 子音字  
 単字はp, f, t, c, k, r, z, m, n, j, b, v, d, s, g, dzの16個、  
-合字で表すのはsh /ʂ/, zh /ʐ/, ts /t͡s/, kh /x/, rkh /ʀ/, rl /ɹ/, kj /c/, gj /ɟ/の8個。  
-
-rとkhが続くときは切れることを明確にするため'を間に入れる。
+合字で表すのはsh /ʂ/, zh /ʐ/, ts /t͡s/, kh /x/, rh /ʀ/, rl /ɹ/, kj /c/, gj /ɟ/の8個。  
