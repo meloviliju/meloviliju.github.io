@@ -5,12 +5,12 @@ taftarlに関する情報のポータルサイト
 - [3. 地理](#geography)  
 - [4. 民俗](#folks)  
   - [4.1. 衣](#clothes) - [4.2. 食](#foods) - [4.3. 住](#housing) - [4.4. 宗教](#religion)  
-- [5. 政治](#politics)
+- [5. 政治](#politics)  
 - [6. 経済](#economics)  
 - [7. 産業](#industry)  
   - [7.1. 農業](#agriculture) - [7.2. 畜産業](#livestock) - [7.3. 水産業](#fishing)  
 - [8. 歴史](#history)  
-  - [8.1. 農業](#prehistoric) - [8.2. 近代以前](#before_modern) - [8.3. 現代](#contemporary)  
+  - [8.1. 先史時代](#prehistoric) - [8.2. 近代以前](#before_modern) - [8.3. 現代](#contemporary)  
 
 <a id ="general"></a>
 ## 概要
