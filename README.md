@@ -1,4 +1,3 @@
-[schwert398](https://twitter.com/Schwert398)のページ.  
 アプリやTRPGなどを細々と作る
 
 ## 作ったもの / 作りたいもの
