@@ -6,8 +6,8 @@
 - [棋譜アプリ(机戦)](https://github.com/schwert398/cerke_noter.git)
 - [タフター・ポータル](taftarl/taftarl_portal.md)
 
-- 自作TPRGルール
-    - [風呂のぼせTRPG](SpringTRPG.md)
+### 自作TPRGルール  
+- [風呂のぼせTRPG](SpringTRPG.md)
 
 <br>
 
