@@ -10,7 +10,7 @@ taftarlに関する情報のポータルサイト
 - [6. 軍事](#military)  
 - [7. 経済](#economics)  
 - [8. 産業](#industry)  
-  - [8.1. 農業](#agriculture) - [8.2. 畜産業](#livestock) - [8.3. 水産業](#fishing)  
+  - [8.1. 農業](#agriculture) - [8.2. 畜産業](#livestock) - [8.3. 水産業](#fishing) - [8.4. 鉱業](#mining)  
 - [8. 歴史](#history)  
   - [9.1. 先史時代](#prehistoric) - [9.2. 近代以前](#before_modern) - [9.3. 現代](#contemporary)  
 
@@ -102,6 +102,11 @@ jetesal山脈頂上の南東に広がる標高7-10Sfta(2200-3200m)の地域に�
 <a id ="fishing"></a>
 ### 水産業
 河川および温泉からの淡水魚の漁業が盛ん。養殖や栽培漁業も見られる。  
+
+<a id ="mining"></a>
+### 鉱業
+都の銀山はほとんど操業を停止しているが、別の山が見つかっておりそこで採掘が行われている。  
+連邦やxelkenから取り入れた技術を用いて電気精錬が行われている地域もあり、効率化が図られている。  
 
 <a id ="history"></a>
 ## 歴史
