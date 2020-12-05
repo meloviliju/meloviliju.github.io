@@ -10,7 +10,7 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
 
 本格的な解析は後日行うことにする。  
 
-<details open>
+<details>
     <summary>一覧 (161語)</summary>
     <ul>
         <li>acelorvuies</li>
@@ -177,8 +177,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
-## 四重子音
+## 四重母音
 <details open>
+    <summary></summary>
     <ul>
         <li>f<b>aiiu</b>m</li>
         <li>neb<b>iuaa</b>l</li>
@@ -195,14 +196,14 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
-## 五重子音
+## 五重母音
 <ul>
     <li>l<b>iueiu</b></li>
 </ul>
 
 ## 固有名詞
-<details open>
-    <summary>proper words</summary>
+<details>
+    <summary></summary>
     <ul>
         <li><b>yue</b>sleone/<b>iue</b>sleone</li>
         <li>v<b>aiy</b>fait</li>
@@ -214,6 +215,7 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
 </details>
 
 ## 接辞による連続とみられるもの
+辞書と比べての語根分析は行っていないため、分類は正しくない可能性があることに注意。  
 ### -ain
 <details open>
     <summary></summary>
@@ -412,8 +414,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
 </details>
 
 ## 重母音の種類による分類
+### a-
 <details open>
-<summary>a-</summary>
+<summary></summary>
     <ul>
         <li>
             <details open>
@@ -555,8 +558,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
+### y-
 <details open>
-    <summary>-y</summary>
+    <summary></summary>
     <ul>
         <li>
             <details open>
@@ -627,8 +631,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
+### e-
 <details open>
-    <summary>-e</summary>
+    <summary></summary>
     <ul>
         <li>
             <details open>
@@ -782,8 +787,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
+### o-
 <details open>
-    <summary>-o</summary>
+    <summary></summary>
     <ul>
         <li>
             <details open>
@@ -856,8 +862,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
+### i-
 <details open>
-    <summary>-i</summary>
+    <summary></summary>
     <ul>
         <li>
             <details open>
@@ -1058,8 +1065,9 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
+### u-
 <details open>
-    <summary>-u</summary>
+    <summary></summary>
     <ul>
         <li>
             <details open>
