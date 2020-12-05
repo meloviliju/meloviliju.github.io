@@ -402,7 +402,6 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
         <li>lerssi'aoes</li>
         <li>nieoticcael</li>
         <li>klieo</li>
-        <li>pistoiarr</li>
         <li>puoi</li>
         <li>tesnokaloaelen</li>
         <li>tlyoairnirl</li>
