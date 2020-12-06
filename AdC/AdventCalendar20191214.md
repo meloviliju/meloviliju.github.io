@@ -11,7 +11,7 @@
 細かいルールは[連盟サイト](https://sites.google.com/view/cet2kaik/)をみてくださると戦術とか世界観が分かっていいと思います。
 
 ## で、何を布教するの?
-机戦そのものの布教は生八つ橋氏([@yatsuhashi86](https://twitter.com/yatsuhashi86))の[記事](https://yatsuhashi86.hatenablog.com/entry/2019/12/12/224313)の方に詳しいのでお任せします。~おいサボるな~  
+机戦そのものの布教は生八つ橋氏([@yatsuhashi86](https://twitter.com/yatsuhashi86))の[記事](https://yatsuhashi86.hatenablog.com/entry/2019/12/12/224313)の方に詳しいのでお任せします。~~おいサボるな~~  
   
 布教するのは、昨晩ベータ版をリリースした机戦用の採譜アプリ「Cerke Noter」。
 
