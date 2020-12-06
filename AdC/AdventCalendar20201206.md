@@ -775,6 +775,13 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
                 </ul>
             </details>
         </li>
+    </ul>
+</details>
+
+### o-
+<details open>
+    <summary></summary>
+    <ul>
         <li>
             <details open>
                 <summary>oae</summary>
@@ -783,13 +790,6 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
                 </ul>
             </details>
         </li>
-    </ul>
-</details>
-
-### o-
-<details open>
-    <summary></summary>
-    <ul>
         <li>
             <details open>
                 <summary>oai</summary>
