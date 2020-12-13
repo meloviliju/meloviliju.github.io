@@ -177,7 +177,7 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
-## 四重母音
+## 四重母音字
 <details open>
     <summary></summary>
     <ul>
@@ -196,7 +196,7 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
-## 五重母音
+## 五重母音字
 <ul>
     <li>l<b>iueiu</b></li>
 </ul>
@@ -412,7 +412,7 @@ aiarなど、同じ語根のもので他に三重以上の母音が登場しな�
     </ul>
 </details>
 
-## 重母音の種類による分類
+## 母音字の種類による分類
 ### a-
 <details open>
 <summary></summary>
